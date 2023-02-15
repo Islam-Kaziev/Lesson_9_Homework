@@ -26,7 +26,7 @@ public class LabelsTest {
         Allure.story("Создание Issue");
         Allure.label("owner", "iakaziyevia");
         Allure.label("severity", SeverityLevel.CRITICAL.value());
-        Allure.link("Testing", "https://testing.github.com")
+        Allure.link("Testing", "https://testing.github.com");
 
     }
 }
