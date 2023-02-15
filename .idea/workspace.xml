@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e854b-89b7-49cd-983e-037c3e678258" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +214,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676146448066</updated>
-      <workItem from="1676146450950" duration="18811000" />
+      <workItem from="1676146450950" duration="19243000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1676150347437</created>
@@ -273,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676485007513</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Next commit">
+      <created>1676485661083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676485661083</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +287,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Next commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
