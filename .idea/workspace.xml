@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e854b-89b7-49cd-983e-037c3e678258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/AttachmentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/LabelsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/StepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/WebSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
@@ -220,7 +215,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676146448066</updated>
-      <workItem from="1676146450950" duration="15129000" />
+      <workItem from="1676146450950" duration="16160000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1676150347437</created>
