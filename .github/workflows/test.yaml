@@ -15,4 +15,6 @@ jobs:
           distribution: 'oracle'
           java-version: '17'
       # запускаем тесты
+      - name: Change wrapper permissions
+      - run: chmod +x ./gradlew
       - run: ./gradlew clean test
