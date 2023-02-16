@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e854b-89b7-49cd-983e-037c3e678258" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/LabelsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/LabelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/AttachmentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/AttachmentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/SelenideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/StepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/StepsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hw_9_Allure/WebSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hw_9_Allure/WebSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +220,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676146448066</updated>
-      <workItem from="1676146450950" duration="29182000" />
+      <workItem from="1676146450950" duration="30460000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1676150347437</created>
@@ -367,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676556214137</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Next commit">
+      <created>1676556942054</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676556942054</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

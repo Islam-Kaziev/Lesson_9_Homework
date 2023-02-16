@@ -38,7 +38,7 @@ public class WebSteps {
 
     @Step("Проверяем наличие Issue с номером {issue}")
     public void shouldSeeIssueWithNumber(int issue) {
-        $(withText("#" + issue)).should(Condition.exist);
+        $(withText("#" + issue)).should(Condition.visible);
     }
 
     @Attachment(value = "Screenshot", type = "image/png", fileExtension = "png")
