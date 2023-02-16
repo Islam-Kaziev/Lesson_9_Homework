@@ -14,7 +14,7 @@ import static org.openqa.selenium.By.linkText;
 public class StepsTest {
 
     private static final String REPOSITORY = "eroshenkoam/allure-example";
-    private static final int ISSUE = 80;
+    private static final int ISSUE = 81;
 
     @Test
     public void testLambdaStep() {
@@ -24,7 +24,9 @@ public class StepsTest {
             open("https://github.com");
         });
         step("Ищем репозиторий " + REPOSITORY, () -> {
-
+            $(".header-search-input").click();
+            $(".header-search-input").sendKeys(REPOSITORY);
+            $(".header-search-input").submit();
         });
         step("Кликаем по ссылке репозитория " + REPOSITORY, () -> {
             $(linkText(REPOSITORY)).click();
