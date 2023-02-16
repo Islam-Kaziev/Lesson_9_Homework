@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 16 14:01:23 GMT 2023","Thu Feb 16 14:01:26 GMT 2023","2172","","hw_9_Allure.AttachmentsTest","","hw_9_Allure.AttachmentsTest","testAnnotatedAttachments","testAnnotatedAttachments()",""
+"passed","Thu Feb 16 14:01:26 GMT 2023","Thu Feb 16 14:01:26 GMT 2023","4","","hw_9_Allure.LabelsTest","","hw_9_Allure.LabelsTest","testStaticLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu Feb 16 14:01:20 GMT 2023","Thu Feb 16 14:01:23 GMT 2023","3305","","hw_9_Allure.AttachmentsTest","","hw_9_Allure.AttachmentsTest","testLambdaAttachments","testLambdaAttachments()",""
+"passed","Thu Feb 16 14:01:26 GMT 2023","Thu Feb 16 14:01:26 GMT 2023","5","","hw_9_Allure.LabelsTest","","hw_9_Allure.LabelsTest","testDynamicLabels","Создание Issue для авторизованного пользователя",""
+"passed","Thu Feb 16 14:01:35 GMT 2023","Thu Feb 16 14:01:38 GMT 2023","2449","","hw_9_Allure.StepsTest","","hw_9_Allure.StepsTest","testLambdaStep","testLambdaStep()",""
+"passed","Thu Feb 16 14:01:32 GMT 2023","Thu Feb 16 14:01:35 GMT 2023","2904","","hw_9_Allure.StepsTest","","hw_9_Allure.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"failed","Thu Feb 16 14:01:26 GMT 2023","Thu Feb 16 14:01:32 GMT 2023","6422","","hw_9_Allure.SelenideTest","","hw_9_Allure.SelenideTest","testIssueSearch","testIssueSearch()",""
