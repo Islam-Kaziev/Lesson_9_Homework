@@ -8,7 +8,7 @@ public class LabelsTest {
 
     @Test
     @Feature("Issue в репозитории")
-    @Story("Создание Issue")
+    @Story("Создание Issues")
     @Owner("kaziyevia")
     @Severity(SeverityLevel.BLOCKER)
     @Link(value = "GitHub", url = "https://testing.github.com")
